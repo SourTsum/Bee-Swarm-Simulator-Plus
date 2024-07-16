@@ -62,4 +62,4 @@ cd BSS+
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=SourTsum/Bee-Swarm-Simulator-Plus&type=Date)](https://star-history.com/#tabbyml/tabby&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=SourTsum/Bee-Swarm-Simulator-Plus&type=Date)](https://star-history.com/#SourTsum/Bee-Swarm-Simulator-Plus&Date)
