@@ -56,7 +56,7 @@ cd BSS+
 
 ### 🔆 Activity
 
-![Git Repository Activity](https://repobeats.axiom.co/api/embed/e4ef0fbd12e586ef9ea7d72d1fb4f5c5b88d78d5.svg "Repobeats analytics image")
+![Git Repository Activity](https://repobeats.axiom.co/api/embed/d569c0e1828f8fbad521fedb875546df5157f459.svg "Repobeats analytics image")
 
 ### 🌟 Star History
 
