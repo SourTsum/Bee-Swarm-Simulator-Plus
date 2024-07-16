@@ -49,34 +49,10 @@ git clone --recurse-submodules https://github.com/Bee-Swarm-Simulator-Plus/BSS+
 cd BSS+
 ```
 
-### Build
-
-1. Set up the Rust environment by following this [tutorial](https://www.rust-lang.org/learn/get-started).
-
-2. Install the required dependencies:
-```bash
-# For MacOS
-brew install protobuf
-
-# For Ubuntu / Debian
-apt-get install protobuf-compiler libopenblas-dev
-```
-
-3. Install useful tools:
-```bash
-# For Ubuntu
-sudo apt install make sqlite3 graphviz
-```
-
-4. Now, you can build Tabby by running the command `cargo build`.
-
-### Start Hacking!
-... and don't forget to submit a [Pull Request](https://github.com/TabbyML/tabby/compare)
-
 ## 🌍 Community
-- 🎤 [Twitter / X](https://twitter.com/Tabby_ML) - engage with TabbyML for all things possible 
-- 📚 [LinkedIn](https://www.linkedin.com/company/tabbyml/) - follow for the latest from the community 
-- 💌 [Newsletter](https://newsletter.tabbyml.com/archive) - subscribe to unlock Tabby insights and secrets
+- 🎤 [Discord](https://twitter.com/Tabby_ML) - engage with TabbyML for all things possible 
+- 📚 [Roblox Group](https://www.linkedin.com/company/tabbyml/) - follow for the latest from the community 
+- 💌 [Website](https://newsletter.tabbyml.com/archive) - subscribe to unlock Tabby insights and secrets
 
 ### 🔆 Activity
 
