@@ -5,14 +5,13 @@
 [📚 Docs](https://tabby.tabbyml.com) • [💬 Discord](https://links.tabbyml.com/join-slack) • [✨ Live Demo](https://links.tabbyml.com/live-demo)
 
 [![latest release](https://shields.io/github/v/release/TabbyML/tabby?sort=semver)](https://github.com/TabbyML/tabby/releases/latest)
-[![community](https://shields.io/github/v/release/TabbyML/tabby?sort=semver)](https://github.com/TabbyML/tabby/releases/latest)
 
 </div>
 
-Tabby is a self-hosted AI coding assistant, offering an open-source and on-premises alternative to GitHub Copilot. It boasts several key features:
-* Self-contained, with no need for a DBMS or cloud service.
-* OpenAPI interface, easy to integrate with existing infrastructure (e.g Cloud IDE).
-* Supports consumer-grade GPUs.
+BSS+ is a bee swarm simulator macro integrating machine learning to automate tasks within bee swarm simulator. It boasts several key features:
+* Advanced pollen collection system.
+* Retro and Hive Hub macros.
+* Supports any machine which can run python and Roblox.
 
 <p align="center">
   <a target="_blank" href="https://tabbyml.github.io/tabby/playground"><img alt="Open in Playground" src="https://img.shields.io/badge/OPEN%20IN%20PLAYGROUND-blue?logo=xcode&style=for-the-badge&logoColor=green"></a>
