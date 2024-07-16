@@ -2,12 +2,9 @@
   
 #  Bee Swarm Simulator Plus
 
-[📚 Docs](https://tabby.tabbyml.com) • [💬 Slack](https://links.tabbyml.com/join-slack) • [✨ Live Demo](https://links.tabbyml.com/live-demo)
+[📚 Docs](https://tabby.tabbyml.com) • [💬 Discord](https://links.tabbyml.com/join-slack) • [✨ Live Demo](https://links.tabbyml.com/live-demo)
 
 [![latest release](https://shields.io/github/v/release/TabbyML/tabby?sort=semver)](https://github.com/TabbyML/tabby/releases/latest)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
-[![Docker pulls](https://img.shields.io/docker/pulls/tabbyml/tabby)](https://hub.docker.com/r/tabbyml/tabby)
-[![codecov](https://codecov.io/gh/TabbyML/tabby/graph/badge.svg?token=WYVVH8MKK3)](https://codecov.io/gh/TabbyML/tabby)
 
 </div>
 
