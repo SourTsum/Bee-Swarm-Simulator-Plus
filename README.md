@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🐾 Tabby
+#  Bee Swarm Simulator Plus
 
 [📚 Docs](https://tabby.tabbyml.com) • [💬 Slack](https://links.tabbyml.com/join-slack) • [✨ Live Demo](https://links.tabbyml.com/live-demo)
 
