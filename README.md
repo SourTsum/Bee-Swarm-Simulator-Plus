@@ -60,4 +60,12 @@ cd BSS+
 
 ### 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=SourTsum/Bee-Swarm-Simulator-Plus&type=Date)](https://star-history.com/#SourTsum/Bee-Swarm-Simulator-Plus&Date)
+## Star History
+
+<a href="https://star-history.com/#SourTsum/Bee-Swarm-Simulator-Plus&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=SourTsum/Bee-Swarm-Simulator-Plus&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=SourTsum/Bee-Swarm-Simulator-Plus&type=Date" />
+   <svg alt="Star History Chart" src="https://api.star-history.com/svg?repos=SourTsum/Bee-Swarm-Simulator-Plus.svg&type=Date" />
+ </picture>
+</a>
