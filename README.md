@@ -14,11 +14,7 @@ BSS+ is a bee swarm simulator macro integrating machine learning to automate tas
 * Supports any machine which can run python and Roblox.
 
 <p align="center">
-  <a target="_blank" href="https://tabbyml.github.io/tabby/playground"><img alt="Open in Playground" src="https://img.shields.io/badge/OPEN%20IN%20PLAYGROUND-blue?logo=xcode&style=for-the-badge&logoColor=green"></a>
-</p>
-
-<p align="center">
-  <img alt="Demo" src="https://user-images.githubusercontent.com/388154/230440226-9bc01d05-9f57-478b-b04d-81184eba14ca.gif">
+  <img alt="Demo" src="https://miro.medium.com/v2/resize:fit:1000/1*NLnnf_M4Nlm4p1GAWrWUCQ.gif">
 </p>
 
 ## 🔥 What's New
